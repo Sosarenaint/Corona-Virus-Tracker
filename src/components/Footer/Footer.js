@@ -21,33 +21,33 @@ function Footer() {
               </p>
               <div className="contact">
                 <span>
-                  <i className="fas fa-envelope"></i>&nbsp; samsonosanyaolu@gmail.com
+                  <i className="fas fa-envelope"></i>&nbsp; hello@sosamson.com
                 </span>
               </div>
               <div className="socials">
                 <a
-                  href="https://www.facebook.com/Praiseloading"
+                  href="https://www.facebook.com/sosamsony"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <i className="fab fa-facebook"></i>
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/samson-sanyaolu/"
+                  href="https://www.linkedin.com/in/sosamsony"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   <i className="fab fa-linkedin"></i>
                 </a>
                 <a
-                  href="https://twitter.com/praiseloading"
+                  href="https://twitter.com/sosamsony"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
                   <i className="fab fa-twitter"></i>
                 </a>
                 <a
-                  href="https://github.com/sosarenaint"
+                  href="https://github.com/sosamsony"
                   rel="noopener noreferrer"
                   target="_blank"
                 >
